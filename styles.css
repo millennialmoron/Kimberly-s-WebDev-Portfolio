@@ -1,0 +1,59 @@
+body {
+  background-color: white;
+  color: white;
+  width: auto;
+  font-family: "News Cycle", sans-serif;
+}
+
+h3 {
+  font-family: "Bodoni Moda", serif;
+  font-size: 2.5rem;
+}
+
+.navbar {
+  padding: 2%;
+}
+
+.title-img {
+  padding-left: 5%;
+}
+
+.card {
+  margin: 3% 8%;
+  padding: 2%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.title-left {
+  text-align: right;
+  padding-right: 1%;
+}
+
+.nav-item {
+  color: white;
+}
+
+.main-heading {
+  font-family: "Bodoni Moda", serif;
+  font-size: 6.5rem;
+}
+
+.carousel-caption {
+  padding: 2%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  font-style: italic;
+  color: white;
+}
+
+.fa-brands {
+  font-size: 2rem;
+}
